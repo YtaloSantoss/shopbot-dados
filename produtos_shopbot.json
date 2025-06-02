@@ -60,7 +60,7 @@
       "id": 5,
       "nome": "Cafeteira Elétrica Programável",
       "preco": 349.90,
-      "descricao": "Cafeteira com capacidade para 12 xícaras, sistema de programação para até 24 horas, filtro permanente lavável e jarra de vidro resistente.",
+      "descricao": "Cafeteira com capacidade para 6 xícaras, sistema de programação para até 24 horas, filtro permanente lavável e jarra de vidro resistente.",
       "categoria": "eletrodomésticos",
       "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/cafeteira.jpg",
       "avaliacao": {
