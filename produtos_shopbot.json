@@ -1,0 +1,247 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Smartphone Galaxy Ultra",
+      "preco": 2499.90,
+      "descricao": "Smartphone com tela AMOLED de 6.7 polegadas, câmera quádrupla de 108MP, 256GB de armazenamento e 12GB de RAM. Bateria de 5000mAh com carregamento rápido.",
+      "categoria": "eletrônicos",
+      "imagem": "https://raw.githubusercontent.com/user/shopbot-api/main/images/smartphone.jpg",
+      "avaliacao": {
+        "nota": 4.8,
+        "quantidade": 325
+      },
+      "estoque": 42,
+      "destaque": true
+    },
+    {
+      "id": 2,
+      "nome": "Notebook ProBook",
+      "preco": 4899.00,
+      "descricao": "Notebook com processador de última geração, 16GB de RAM, SSD de 512GB, placa de vídeo dedicada e tela Full HD de 15.6 polegadas. Ideal para trabalho e jogos.",
+      "categoria": "eletrônicos",
+      "imagem": "https://raw.githubusercontent.com/user/shopbot-api/main/images/notebook.jpg",
+      "avaliacao": {
+        "nota": 4.7,
+        "quantidade": 189
+      },
+      "estoque": 15,
+      "destaque": true
+    },
+    {
+      "id": 3,
+      "nome": "Tênis Esportivo FlexRun",
+      "preco": 299.90,
+      "descricao": "Tênis leve e confortável para corridas e caminhadas. Tecnologia de amortecimento avançada, solado flexível e material respirável.",
+      "categoria": "esportes",
+      "imagem": "https://raw.githubusercontent.com/user/shopbot-api/main/images/tenis.jpg",
+      "avaliacao": {
+        "nota": 4.5,
+        "quantidade": 412
+      },
+      "estoque": 78,
+      "destaque": false
+    },
+    {
+      "id": 4,
+      "nome": "Smart TV 50\" 4K",
+      "preco": 2799.00,
+      "descricao": "Smart TV LED 50 polegadas com resolução 4K, sistema operacional inteligente, conectividade Wi-Fi, Bluetooth e múltiplas entradas HDMI e USB.",
+      "categoria": "eletrônicos",
+      "imagem": "https://raw.githubusercontent.com/user/shopbot-api/main/images/tv.jpg",
+      "avaliacao": {
+        "nota": 4.6,
+        "quantidade": 278
+      },
+      "estoque": 23,
+      "destaque": true
+    },
+    {
+      "id": 5,
+      "nome": "Cafeteira Elétrica Programável",
+      "preco": 349.90,
+      "descricao": "Cafeteira com capacidade para 12 xícaras, sistema de programação para até 24 horas, filtro permanente lavável e jarra de vidro resistente.",
+      "categoria": "eletrodomésticos",
+      "imagem": "https://raw.githubusercontent.com/user/shopbot-api/main/images/cafeteira.jpg",
+      "avaliacao": {
+        "nota": 4.3,
+        "quantidade": 156
+      },
+      "estoque": 31,
+      "destaque": false
+    },
+    {
+      "id": 6,
+      "nome": "Fone de Ouvido Bluetooth",
+      "preco": 199.90,
+      "descricao": "Fone de ouvido sem fio com tecnologia Bluetooth 5.0, bateria de longa duração, cancelamento de ruído e microfone integrado para chamadas.",
+      "categoria": "eletrônicos",
+      "imagem": "https://raw.githubusercontent.com/user/shopbot-api/main/images/fone.jpg",
+      "avaliacao": {
+        "nota": 4.4,
+        "quantidade": 527
+      },
+      "estoque": 65,
+      "destaque": false
+    },
+    {
+      "id": 7,
+      "nome": "Mochila para Notebook",
+      "preco": 159.90,
+      "descricao": "Mochila resistente à água com compartimento acolchoado para notebook de até 15.6 polegadas, múltiplos bolsos organizadores e alças ergonômicas.",
+      "categoria": "acessórios",
+      "imagem": "https://raw.githubusercontent.com/user/shopbot-api/main/images/mochila.jpg",
+      "avaliacao": {
+        "nota": 4.7,
+        "quantidade": 203
+      },
+      "estoque": 42,
+      "destaque": false
+    },
+    {
+      "id": 8,
+      "nome": "Liquidificador Multifuncional",
+      "preco": 179.90,
+      "descricao": "Liquidificador com 12 velocidades, função pulsar, lâminas em aço inox, copo de 2 litros e filtro para sucos.",
+      "categoria": "eletrodomésticos",
+      "imagem": "https://raw.githubusercontent.com/user/shopbot-api/main/images/liquidificador.jpg",
+      "avaliacao": {
+        "nota": 4.2,
+        "quantidade": 184
+      },
+      "estoque": 27,
+      "destaque": false
+    },
+    {
+      "id": 9,
+      "nome": "Relógio Inteligente SportWatch",
+      "preco": 599.90,
+      "descricao": "Smartwatch com monitoramento cardíaco, GPS integrado, contador de passos, múltiplos modos esportivos e bateria com duração de até 14 dias.",
+      "categoria": "eletrônicos",
+      "imagem": "https://raw.githubusercontent.com/user/shopbot-api/main/images/relogio.jpg",
+      "avaliacao": {
+        "nota": 4.6,
+        "quantidade": 312
+      },
+      "estoque": 19,
+      "destaque": true
+    },
+    {
+      "id": 10,
+      "nome": "Cadeira Gamer Ergonômica",
+      "preco": 899.90,
+      "descricao": "Cadeira gamer com design ergonômico, encosto reclinável até 180°, apoio lombar ajustável, braços 4D e estrutura reforçada para até 150kg.",
+      "categoria": "móveis",
+      "imagem": "https://raw.githubusercontent.com/user/shopbot-api/main/images/cadeira.jpg",
+      "avaliacao": {
+        "nota": 4.5,
+        "quantidade": 147
+      },
+      "estoque": 12,
+      "destaque": false
+    },
+    {
+      "id": 11,
+      "nome": "Fritadeira Elétrica Sem Óleo",
+      "preco": 399.90,
+      "descricao": "Fritadeira elétrica sem óleo com capacidade de 4 litros, painel digital, 8 programas pré-definidos e cesto removível lavável em máquina de lavar louças.",
+      "categoria": "eletrodomésticos",
+      "imagem": "https://raw.githubusercontent.com/user/shopbot-api/main/images/fritadeira.jpg",
+      "avaliacao": {
+        "nota": 4.8,
+        "quantidade": 389
+      },
+      "estoque": 38,
+      "destaque": true
+    },
+    {
+      "id": 12,
+      "nome": "Câmera Digital Profissional",
+      "preco": 3299.00,
+      "descricao": "Câmera DSLR com sensor de 24.1MP, gravação de vídeo em 4K, tela articulada, conectividade Wi-Fi e Bluetooth, e lente 18-55mm inclusa.",
+      "categoria": "eletrônicos",
+      "imagem": "https://raw.githubusercontent.com/user/shopbot-api/main/images/camera.jpg",
+      "avaliacao": {
+        "nota": 4.9,
+        "quantidade": 98
+      },
+      "estoque": 7,
+      "destaque": false
+    },
+    {
+      "id": 13,
+      "nome": "Ventilador de Torre Digital",
+      "preco": 279.90,
+      "descricao": "Ventilador de torre com 3 velocidades, oscilação automática, timer programável, controle remoto e display digital.",
+      "categoria": "eletrodomésticos",
+      "imagem": "https://raw.githubusercontent.com/user/shopbot-api/main/images/ventilador.jpg",
+      "avaliacao": {
+        "nota": 4.3,
+        "quantidade": 215
+      },
+      "estoque": 29,
+      "destaque": false
+    },
+    {
+      "id": 14,
+      "nome": "Mala de Viagem Grande",
+      "preco": 349.90,
+      "descricao": "Mala de viagem rígida com 4 rodas giratórias, fechadura TSA, alça telescópica ajustável e capacidade de 85 litros.",
+      "categoria": "acessórios",
+      "imagem": "https://raw.githubusercontent.com/user/shopbot-api/main/images/mala.jpg",
+      "avaliacao": {
+        "nota": 4.5,
+        "quantidade": 173
+      },
+      "estoque": 22,
+      "destaque": false
+    },
+    {
+      "id": 15,
+      "nome": "Teclado Mecânico Gamer",
+      "preco": 399.90,
+      "descricao": "Teclado mecânico com switches Cherry MX, iluminação RGB personalizável, teclas programáveis e apoio de pulso ergonômico.",
+      "categoria": "eletrônicos",
+      "imagem": "https://raw.githubusercontent.com/user/shopbot-api/main/images/teclado.jpg",
+      "avaliacao": {
+        "nota": 4.7,
+        "quantidade": 256
+      },
+      "estoque": 18,
+      "destaque": false
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "eletrônicos",
+      "descricao": "Produtos eletrônicos como smartphones, notebooks, TVs e acessórios"
+    },
+    {
+      "id": 2,
+      "nome": "eletrodomésticos",
+      "descricao": "Aparelhos e utensílios para casa como cafeteiras, liquidificadores e fritadeiras"
+    },
+    {
+      "id": 3,
+      "nome": "esportes",
+      "descricao": "Artigos esportivos como tênis, roupas e equipamentos para exercícios"
+    },
+    {
+      "id": 4,
+      "nome": "móveis",
+      "descricao": "Móveis para casa e escritório como cadeiras, mesas e estantes"
+    },
+    {
+      "id": 5,
+      "nome": "acessórios",
+      "descricao": "Acessórios diversos como mochilas, malas e bolsas"
+    }
+  ],
+  "destaques": [1, 2, 4, 9, 11],
+  "meta": {
+    "total_produtos": 15,
+    "total_categorias": 5,
+    "ultima_atualizacao": "2025-06-01T12:00:00Z"
+  }
+}
