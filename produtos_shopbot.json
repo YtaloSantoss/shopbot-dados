@@ -62,7 +62,7 @@
       "preco": 349.90,
       "descricao": "Cafeteira com capacidade para 6 xícaras, sistema de programação para até 24 horas, filtro permanente lavável e jarra de vidro resistente.",
       "categoria": "eletrodomésticos",
-      "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/cafeteira.jpg",
+      "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/cafeteira.webp",
       "avaliacao": {
         "nota": 4.3,
         "quantidade": 156
@@ -76,7 +76,7 @@
       "preco": 199.90,
       "descricao": "Fone de ouvido sem fio com tecnologia Bluetooth 5.0, bateria de longa duração, cancelamento de ruído e microfone integrado para chamadas.",
       "categoria": "eletrônicos",
-      "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/fone.jpg",
+      "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/fone.webp",
       "avaliacao": {
         "nota": 4.4,
         "quantidade": 527
@@ -90,7 +90,7 @@
       "preco": 159.90,
       "descricao": "Mochila resistente à água com compartimento acolchoado para notebook de até 15.6 polegadas, múltiplos bolsos organizadores e alças ergonômicas.",
       "categoria": "acessórios",
-      "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/mochila.jpg",
+      "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/mochila.webp",
       "avaliacao": {
         "nota": 4.7,
         "quantidade": 203
@@ -104,7 +104,7 @@
       "preco": 179.90,
       "descricao": "Liquidificador com 12 velocidades, função pulsar, lâminas em aço inox, copo de 2 litros e filtro para sucos.",
       "categoria": "eletrodomésticos",
-      "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/liquidificador.jpg",
+      "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/liquidificador.webp",
       "avaliacao": {
         "nota": 4.2,
         "quantidade": 184
@@ -118,7 +118,7 @@
       "preco": 599.90,
       "descricao": "Smartwatch com monitoramento cardíaco, GPS integrado, contador de passos, múltiplos modos esportivos e bateria com duração de até 14 dias.",
       "categoria": "eletrônicos",
-      "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/relogio.jpg",
+      "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/relogio.webp",
       "avaliacao": {
         "nota": 4.6,
         "quantidade": 312
@@ -132,7 +132,7 @@
       "preco": 899.90,
       "descricao": "Cadeira gamer com design ergonômico, encosto reclinável até 180°, apoio lombar ajustável, braços 4D e estrutura reforçada para até 150kg.",
       "categoria": "móveis",
-      "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/cadeira.jpg",
+      "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/cadeira.webp",
       "avaliacao": {
         "nota": 4.5,
         "quantidade": 147
@@ -146,7 +146,7 @@
       "preco": 399.90,
       "descricao": "Fritadeira elétrica sem óleo com capacidade de 4 litros, painel digital, 8 programas pré-definidos e cesto removível lavável em máquina de lavar louças.",
       "categoria": "eletrodomésticos",
-      "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/fritadeira.jpg",
+      "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/fritadeira.webp",
       "avaliacao": {
         "nota": 4.8,
         "quantidade": 389
@@ -174,7 +174,7 @@
       "preco": 279.90,
       "descricao": "Ventilador de torre com 3 velocidades, oscilação automática, timer programável, controle remoto e display digital.",
       "categoria": "eletrodomésticos",
-      "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/ventilador.jpg",
+      "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/ventilador.webp",
       "avaliacao": {
         "nota": 4.3,
         "quantidade": 215
@@ -188,7 +188,7 @@
       "preco": 349.90,
       "descricao": "Mala de viagem rígida com 4 rodas giratórias, fechadura TSA, alça telescópica ajustável e capacidade de 85 litros.",
       "categoria": "acessórios",
-      "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/mala.jpg",
+      "imagem": "https://raw.githubusercontent.com/YtaloSantoss/shopbot-dados/main/images/mala.webp",
       "avaliacao": {
         "nota": 4.5,
         "quantidade": 173
